@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [reworkcss/css-stringify](http://github.com/reworkcss/css-stringify). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/reworkcss-css-stringify`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # css-stringify [![Build Status](https://travis-ci.org/reworkcss/css-stringify.png)](https://travis-ci.org/reworkcss/css-stringify)
 
   CSS compiler using the AST provided by [css-parse](https://github.com/visionmedia/css-parse).
